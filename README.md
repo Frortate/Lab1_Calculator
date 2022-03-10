@@ -1,2 +1,2 @@
-# Lab1_Calculator
+# LabQT
  
